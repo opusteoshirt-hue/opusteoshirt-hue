@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Gabriel Alves Pereira Santos
+# Gabriel Alves Pereira Santos
 
 **`Analista de Dados | Business Intelligence | Automação de Processos`**
 
@@ -37,7 +37,7 @@ Sou Gabriel Alves, natural do Distrito Federal, com sólida experiência em aná
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### </> Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
@@ -53,7 +53,7 @@ Sou Gabriel Alves, natural do Distrito Federal, com sólida experiência em aná
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 📊 Estatísticas
+### Estatísticas
 
 <p align="left">
   <img alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=GabrielAPSantos&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
