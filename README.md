@@ -2,7 +2,7 @@
 
 **`Analista de Dados | Business Intelligence | Automação de Processos`**
 
-Sou Gabriel Alves, natural do Distrito Federal, com sólida experiência em análise de dados, desenvolvimento de dashboards e automação de processos. Atualmente, atuo como Analista de Business Intelligence no Detran-DF, onde crio soluções com Power BI, Python e ferramentas low-code para otimizar a tomada de decisão. Minha trajetória inclui passagens pelo Exército Brasileiro e pela Presidência da República, onde implementei a cultura de dados em ambientes de alta criticidade. Sou apaixonado por transformar dados em insights estratégicos e estou sempre em busca de novos desafios na área de dados e automação.
+Sou Gabriel Alves, natural do Distrito Federal, com sólida experiência em análise de dados, desenvolvimento de dashboards e automação de processos. Atualmente, atuo como Analista de Business Intelligence na Truly Tecnologia, onde crio soluções com Power BI, Python e ferramentas low-code para otimizar a tomada de decisão. Minha trajetória inclui passagens pelo Exército Brasileiro e pela Presidência da República, onde implementei a cultura de dados em ambientes de alta criticidade. Sou apaixonado por transformar dados em insights estratégicos e estou sempre em busca de novos desafios na área de dados e automação.
 
 <p align="left">
     <a href="https://github.com/GabrielAPSantos?tab=repositories&sort=stargazers">
