@@ -41,6 +41,8 @@ Sou Gabriel Alves, natural do Distrito Federal, com sólida experiência em aná
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Power_Query-FF8C00?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power Query" />
+  <img src="https://img.shields.io/badge/DAX-7B2FBE?style=for-the-badge&logo=powerbi&logoColor=white" alt="DAX" />
   <img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
   <img src="https://img.shields.io/badge/Power_Automate-0078D4?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
   <img src="https://img.shields.io/badge/Microsoft_Excel-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
@@ -53,7 +55,7 @@ Sou Gabriel Alves, natural do Distrito Federal, com sólida experiência em aná
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### Estatísticas
+### Tecnologias
 
 <p align="left">
   <img alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=opusteoshirt-hue&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
