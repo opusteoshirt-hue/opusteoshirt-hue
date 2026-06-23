@@ -1,6 +1,6 @@
 # Gabriel Alves Pereira Santos
 
-**`Analista de Dados | Business Intelligence | Automação de Processos`**
+**`BI Analyst | Data Analysis | Business Intelligence | DAX | Python | R | Power Query (M) | SQL | Advanced Excel | ETL | Process Automation | Power Platform`**
 
 Sou Gabriel Alves, natural do Distrito Federal, com sólida experiência em análise de dados, desenvolvimento de dashboards e automação de processos. Atualmente, atuo como Analista de Business Intelligence na Truly Tecnologia, onde crio soluções com Power BI, Python e ferramentas low-code para otimizar a tomada de decisão. Minha trajetória inclui passagens pelo Exército Brasileiro e pela Presidência da República, onde implementei a cultura de dados em ambientes de alta criticidade. Sou apaixonado por transformar dados em insights estratégicos e estou sempre em busca de novos desafios na área de dados e automação.
 
