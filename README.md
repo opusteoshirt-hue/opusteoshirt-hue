@@ -12,7 +12,7 @@ Sou Gabriel Alves, natural do Distrito Federal, com sólida experiência em aná
             src="https://custom-icon-badges.demolab.com/github/stars/opusteoshirt-hue?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/GabrielAPSantos?tab=followers">
+    <a href="https://github.com/opusteoshirt-hue?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
