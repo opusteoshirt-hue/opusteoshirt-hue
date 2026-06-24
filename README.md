@@ -10,28 +10,28 @@ Sou profissional da área de dados e Business Intelligence, com experiência em 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/opusteoshirt-hue?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/opusteoshirt-hue?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas&_=v1"
         />
     </a>
     <a href="https://github.com/opusteoshirt-hue?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/opusteoshirt-hue?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/opusteoshirt-hue?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white&_=v1"
         />
     </a>
     <a href="https://www.instagram.com/gabriellmbd/">
         <img 
             alt="Instagram" 
             title="Siga-me no Instagram" 
-            src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"
+            src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&_=v1"
         />
     </a>
     <a href="https://www.linkedin.com/in/gabriel-santos-1a8ab4321/">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&_=v1"
         />
     </a>
 </p>
@@ -59,6 +59,9 @@ Sou profissional da área de dados e Business Intelligence, com experiência em 
 ### Tecnologias
 
 <p align="left">
-  <img alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=opusteoshirt-hue&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opusteoshirt-hue&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+  <!-- LINHA CORRIGIDA 1: Adicionado &_=v1 para quebrar o cache -->
+  <img alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=opusteoshirt-hue&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&_=v1" />
+  
+  <!-- LINHA CORRIGIDA 2: Adicionado &_=v1 para quebrar o cache -->
+  <img alt="Top Langs" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=opusteoshirt-hue&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&_=v1" />
 </p>
