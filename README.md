@@ -53,10 +53,6 @@ Sou profissional da área de dados e Business Intelligence, com experiência em 
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-<div align="leftr">
-  <img src="https://metrics.lecoq.io/opusteoshirt-hue?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FSao_Paulo" alt="Linguagens" />
-</div>
-
 ---
 
 ##  Estatísticas Dinâmicas do GitHub
