@@ -61,11 +61,3 @@ Sou profissional da área de dados e Business Intelligence, com experiência em 
 </div>
 
 
----
-  <a href="https://github.com/opusteoshirt-hue">
-    <img src="https://kgnio-profile-card.vercel.app/api/card?user=opusteoshirt-hue&theme=ice" alt="GitHub Profile Card" />
-  </a>
-</p>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opusteoshirt-hue&theme=tokyonight&hide_border=true&locale=pt_BR&custom_title=Sequência%20de%20Commits"/>
-</div>
