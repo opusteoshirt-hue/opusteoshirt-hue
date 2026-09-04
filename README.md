@@ -55,9 +55,4 @@ Sou profissional da área de dados e Business Intelligence, com experiência em 
 
 ---
 
-##  Estatísticas Dinâmicas do GitHub
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opusteoshirt-hue&theme=tokyonight&area=true&hide_border=true&custom_title=Atividade%20nos%20Repositórios&bg_color=0d1117&color=70a5fd&line=70a5fd&point=ffffff"/>
-</div>
-
 
